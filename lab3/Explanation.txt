@@ -1,0 +1,1 @@
+Practice using JavaFX to build graphical interfaces.

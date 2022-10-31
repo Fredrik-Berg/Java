@@ -1,0 +1,1 @@
+Implementation of a textprocessing-program. It counts the number of times differnt words show up in a text.

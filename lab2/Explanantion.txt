@@ -1,0 +1,1 @@
+Implementation to learn more about the data structure linked-list. Both a self-built and the pre-built version was studied.

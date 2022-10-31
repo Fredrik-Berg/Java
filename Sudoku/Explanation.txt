@@ -1,0 +1,2 @@
+Here I've written a program which displays a Sudoku-board and given a starting position (some of the boxes of the sudoku-board being filled with numbers) it checks whether 
+the given starting position can be solved according to the rules of Sudoku.
